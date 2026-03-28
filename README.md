@@ -35,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Naman's GitHub stats]([https://github-readme-stats.vercel.app/api?username=namansinghal111&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=namansinghal111&show_icons=true&theme=tokyonight&hide_border=true))
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namansinghal111&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=namansinghal111&theme=tokyonight)
-
----
-
 ## 🚀 What I’m Working On
 - 🔹 Building scalable **data pipelines**
 - 🔹 Integrating **AI/ML with data systems**
