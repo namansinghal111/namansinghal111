@@ -37,11 +37,9 @@
 
 ## 📊 GitHub Stats
 
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namansinghal111&show_icons=true&theme=tokyonight)
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-singhal-b3ab52247&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namansinghal111&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-singhal-b3ab52247&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
